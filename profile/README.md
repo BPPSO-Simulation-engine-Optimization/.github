@@ -1,12 +1,29 @@
-## Hi there 👋
+# 📚 Data-Driven Process Simulation Project  
+*Organizational README*
 
-<!--
+This repository contains the full project for a **data-driven business process simulation engine** 
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 📅 Project Work Packages & Deadlines
+
+## **Work Package 1 – Simulation Engine**
+**Deadline:** **01.01.2026**  
+**Deliverable:**  
+- Working simulation engine  
+- Instance spawning (basic & optional advanced)  
+- Processing-time modeling (probabilistic + ML point predictor)  
+- Next activity prediction (probabilities; optional advanced ML)  
+- Resource availability + permissions + random allocation  
+- Presentation + demonstration  
+- Initial project report section (Simulation Engine)
+
+---
+
+## **Work Package 2 – Optimization**
+**Deadline:** **01.03.2026**  
+**Deliverable:**  
+- Optimization component integrated with simulation engine  
+- Final report combining WP1 + WP2  
+- Full system demonstration
+---
